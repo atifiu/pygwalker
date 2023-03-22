@@ -1,6 +1,3 @@
-
-<div style="background: #FFFFFF; color: #000">
-
 ### PYGWALKER
 
 In this repo I have shown the demo of using pygwalker library which can help to convert pandas dataframe into a visual output format with multiple options available to view data as graphs/plot as well as well formatted table.
@@ -17,7 +14,5 @@ It is simple to use:
 ![Alt text](gw%20chart%20396273_1.png)
 ![Alt text](gw%20chart%20396273_4.png)
 
-
-</div>
 
 
